@@ -22,3 +22,5 @@ Built for the Hacktoberfest Hack Day (Best Open-Source AI Project).
 
 ## License
 MIT
+
+demo video: https://drive.google.com/file/d/1ynBRSqbwN75UkFnZu2gIy2tfhYzR_sFv/view?usp=drivesdk
